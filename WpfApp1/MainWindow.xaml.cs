@@ -20,4 +20,8 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
     }
+    publi class al82040
+    {
+        int numeroaluno { get; set; }
+    }
 }
